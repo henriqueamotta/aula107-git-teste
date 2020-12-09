@@ -6,6 +6,8 @@ public class Program {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Boa noite! Estudando na madruga!");
+		System.out.println("Bom dia! Para quando amanhecer.");
+		
 
 	}
 
